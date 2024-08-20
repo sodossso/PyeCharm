@@ -1,2 +1,2 @@
-Under code you will find the 4th Day challenge of the 100 Days of Python I have been going through.
-This is a Rock, Papper, Scissors game which uses the random mondule and introduces the concept of lists to my code.
+Under code you will find the challenges I have completed while going through the 100 Days of Python course.
+Week 4 - Rock, Papper, Scissors game which uses the random mondule and introduces the concept of lists to my code.
